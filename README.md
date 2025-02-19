@@ -40,7 +40,8 @@ I’m **Ravi**, a data-driven **Supply Chain Analyst** and **Marketing Professio
 
 Feel free to reach out if you’d like to discuss **data-driven strategies**, **supply chain solutions**, or **collaborate on projects**. Let’s harness data to transform operations and drive sustainable business growth!
 -
-<!---
+<!---![IMG_4756](https://github.com/user-attachments/assets/57276353-d36a-4099-838c-0adef0c615fe)
+
 rav00-cloud/rav00-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
