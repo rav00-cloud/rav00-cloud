@@ -1,3 +1,4 @@
+![IMG_4756](https://github.com/user-attachments/assets/10da83fc-0d71-4898-84de-8869b84fb0b0)
 ## Hey there! 👋
 I’m **Ravi**, a data-driven **Supply Chain Analyst** and **Marketing Professional** based in Ontario, Canada. I specialize in **inventory optimization**, **Lean Six Sigma**, **Kanban**, and **Just-In-Time (JIT)** systems to streamline operations and minimize costs. My passion lies in using **data visualization** tools like **Power BI** and **Tableau**, along with **SQL** and **Python**, to uncover insights that drive strategic decision-making.
 
